@@ -1,0 +1,45 @@
+C:\Users\nubra\source\repos\zendeskalerts\zendeskalerts\bin\Debug\zendeskalerts.exe.config
+C:\Users\nubra\source\repos\zendeskalerts\zendeskalerts\bin\Debug\zendeskalerts.exe
+C:\Users\nubra\source\repos\zendeskalerts\zendeskalerts\bin\Debug\zendeskalerts.pdb
+C:\Users\nubra\source\repos\zendeskalerts\zendeskalerts\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nubra\source\repos\zendeskalerts\zendeskalerts\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\nubra\source\repos\zendeskalerts\zendeskalerts\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nubra\source\repos\zendeskalerts\zendeskalerts\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\nubra\source\repos\zendeskalerts\zendeskalerts\obj\Debug\zendeskalerts.csprojAssemblyReference.cache
+C:\Users\nubra\source\repos\zendeskalerts\zendeskalerts\obj\Debug\zendeskalerts.Form1.resources
+C:\Users\nubra\source\repos\zendeskalerts\zendeskalerts\obj\Debug\zendeskalerts.Properties.Resources.resources
+C:\Users\nubra\source\repos\zendeskalerts\zendeskalerts\obj\Debug\zendeskalerts.csproj.GenerateResource.cache
+C:\Users\nubra\source\repos\zendeskalerts\zendeskalerts\obj\Debug\zendeskalerts.csproj.CoreCompileInputs.cache
+C:\Users\nubra\source\repos\zendeskalerts\zendeskalerts\obj\Debug\zendeskalerts.csproj.CopyComplete
+C:\Users\nubra\source\repos\zendeskalerts\zendeskalerts\obj\Debug\zendeskalerts.exe
+C:\Users\nubra\source\repos\zendeskalerts\zendeskalerts\obj\Debug\zendeskalerts.pdb
+C:\Users\a705486\Documents\Visual Studio 2017\Projects\zendeskalerts\zendeskalerts\bin\Debug\zendeskalerts.exe.config
+C:\Users\a705486\Documents\Visual Studio 2017\Projects\zendeskalerts\zendeskalerts\bin\Debug\zendeskalerts.exe
+C:\Users\a705486\Documents\Visual Studio 2017\Projects\zendeskalerts\zendeskalerts\bin\Debug\zendeskalerts.pdb
+C:\Users\a705486\Documents\Visual Studio 2017\Projects\zendeskalerts\zendeskalerts\bin\Debug\Newtonsoft.Json.dll
+C:\Users\a705486\Documents\Visual Studio 2017\Projects\zendeskalerts\zendeskalerts\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\a705486\Documents\Visual Studio 2017\Projects\zendeskalerts\zendeskalerts\bin\Debug\Newtonsoft.Json.xml
+C:\Users\a705486\Documents\Visual Studio 2017\Projects\zendeskalerts\zendeskalerts\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\a705486\Documents\Visual Studio 2017\Projects\zendeskalerts\zendeskalerts\obj\Debug\zendeskalerts.csprojAssemblyReference.cache
+C:\Users\a705486\Documents\Visual Studio 2017\Projects\zendeskalerts\zendeskalerts\obj\Debug\zendeskalerts.Form1.resources
+C:\Users\a705486\Documents\Visual Studio 2017\Projects\zendeskalerts\zendeskalerts\obj\Debug\zendeskalerts.Properties.Resources.resources
+C:\Users\a705486\Documents\Visual Studio 2017\Projects\zendeskalerts\zendeskalerts\obj\Debug\zendeskalerts.csproj.GenerateResource.cache
+C:\Users\a705486\Documents\Visual Studio 2017\Projects\zendeskalerts\zendeskalerts\obj\Debug\zendeskalerts.csproj.CoreCompileInputs.cache
+C:\Users\a705486\Documents\Visual Studio 2017\Projects\zendeskalerts\zendeskalerts\obj\Debug\zendeskalerts.csproj.CopyComplete
+C:\Users\a705486\Documents\Visual Studio 2017\Projects\zendeskalerts\zendeskalerts\obj\Debug\zendeskalerts.exe
+C:\Users\a705486\Documents\Visual Studio 2017\Projects\zendeskalerts\zendeskalerts\obj\Debug\zendeskalerts.pdb
+D:\SSD Users\nubra\Desktop\zenalerts_v2.1_source\zendeskalerts\zendeskalerts\bin\Debug\zendeskalerts.exe.config
+D:\SSD Users\nubra\Desktop\zenalerts_v2.1_source\zendeskalerts\zendeskalerts\bin\Debug\zendeskalerts.exe
+D:\SSD Users\nubra\Desktop\zenalerts_v2.1_source\zendeskalerts\zendeskalerts\bin\Debug\zendeskalerts.pdb
+D:\SSD Users\nubra\Desktop\zenalerts_v2.1_source\zendeskalerts\zendeskalerts\bin\Debug\Newtonsoft.Json.dll
+D:\SSD Users\nubra\Desktop\zenalerts_v2.1_source\zendeskalerts\zendeskalerts\bin\Debug\System.Net.Http.Formatting.dll
+D:\SSD Users\nubra\Desktop\zenalerts_v2.1_source\zendeskalerts\zendeskalerts\bin\Debug\Newtonsoft.Json.xml
+D:\SSD Users\nubra\Desktop\zenalerts_v2.1_source\zendeskalerts\zendeskalerts\bin\Debug\System.Net.Http.Formatting.xml
+D:\SSD Users\nubra\Desktop\zenalerts_v2.1_source\zendeskalerts\zendeskalerts\obj\Debug\zendeskalerts.csprojAssemblyReference.cache
+D:\SSD Users\nubra\Desktop\zenalerts_v2.1_source\zendeskalerts\zendeskalerts\obj\Debug\zendeskalerts.Form1.resources
+D:\SSD Users\nubra\Desktop\zenalerts_v2.1_source\zendeskalerts\zendeskalerts\obj\Debug\zendeskalerts.Properties.Resources.resources
+D:\SSD Users\nubra\Desktop\zenalerts_v2.1_source\zendeskalerts\zendeskalerts\obj\Debug\zendeskalerts.csproj.GenerateResource.cache
+D:\SSD Users\nubra\Desktop\zenalerts_v2.1_source\zendeskalerts\zendeskalerts\obj\Debug\zendeskalerts.csproj.CoreCompileInputs.cache
+D:\SSD Users\nubra\Desktop\zenalerts_v2.1_source\zendeskalerts\zendeskalerts\obj\Debug\zendeskalerts.csproj.CopyComplete
+D:\SSD Users\nubra\Desktop\zenalerts_v2.1_source\zendeskalerts\zendeskalerts\obj\Debug\zendeskalerts.exe
+D:\SSD Users\nubra\Desktop\zenalerts_v2.1_source\zendeskalerts\zendeskalerts\obj\Debug\zendeskalerts.pdb
